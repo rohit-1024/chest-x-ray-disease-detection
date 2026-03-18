@@ -8,8 +8,7 @@ data/
 
 .ipynb_checkpoints/
 
-saved_models/*.h5
-saved_models/*.keras
+
 
 .env
 .DS_Store
