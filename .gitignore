@@ -13,3 +13,5 @@ saved_models/*.keras
 
 .env
 .DS_Store
+
+!src/data
