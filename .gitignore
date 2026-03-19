@@ -1,6 +1,9 @@
 .venv/
+.venv-dev/
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
 data/
 *.png
@@ -8,9 +11,12 @@ data/
 
 .ipynb_checkpoints/
 
-
+prediction_report.pdf
+gradcam_result.png
 
 .env
 .DS_Store
+*.log
 
 !src/data
+
